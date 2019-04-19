@@ -3,7 +3,6 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/LDAPAuthTest/pom.xml" />
         <option value="$PROJECT_DIR$/_02_Integration_Testing_Example/pom.xml" />
       </list>
     </option>
